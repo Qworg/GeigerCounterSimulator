@@ -9,3 +9,5 @@ Add circuit diagram
 
 
 Inspired by Instructable by Jeff Haas: http://www.instructables.com/id/How-To-Make-A-Fake-Geiger-Counter/?ALLSTEPS
+
+License: CC-BY-SA 3.0
